@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "224494412278",
+    "project_id": "wanmin-restaurant-d1d8d",
+    "storage_bucket": "wanmin-restaurant-d1d8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224494412278:android:40b1330fa1cf87ae82a7d7",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224494412278-r9npghtp50h6ospp9ph27782cspcvcu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPZcxJbwmTiKCEVMvkHezGHUK_RtE3Bsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224494412278-r9npghtp50h6ospp9ph27782cspcvcu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
